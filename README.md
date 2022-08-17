@@ -1,5 +1,5 @@
 # Anthony-Portfolio
-Hi,  am Anthony this is my IST
+Hi, I am Anthony this is my IST course at
 [Mcintosh Highschool](https://www.fcboe.org/mhs)
 
 ## Contents 
