@@ -21,3 +21,6 @@
 
 ## Accomplishments So Far
 - A reward certifacate from the APD 
+
+## Typing Skills
+- Practiced typing like a g
